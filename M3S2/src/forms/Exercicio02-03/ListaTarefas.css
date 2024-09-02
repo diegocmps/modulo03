@@ -41,7 +41,7 @@ h2 {
 }
 
 input[type="text"] {
-    width: calc(100% - 120px); /* Para acomodar o botão */
+    width: calc(100% - 120px);
     padding: 10px;
     border: 1px solid var(--border-color-light);
     border-radius: 4px;
