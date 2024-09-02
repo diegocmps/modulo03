@@ -1,0 +1,29 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "titulo": "To Kill a Mockingbird",
+        "autor": "Harper Lee",
+        "genero": "Fiction",
+        "ano": 1960,
+        "isbn": "978-0-06-112008-4"
+      },
+      {
+        "id": 2,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "genero": "Dystopian",
+        "ano": 1949,
+        "isbn": "978-0-452-28423-4"
+      },
+      {
+        "id": 3,
+        "titulo": "The Great Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "genero": "Science Fiction",
+        "ano": 1925,
+        "isbn": "978-0-7432-7356-5"
+      }
+    ]
+  }
+  
